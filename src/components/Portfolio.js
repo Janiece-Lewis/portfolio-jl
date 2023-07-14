@@ -1,5 +1,5 @@
 import React from 'react'
-import t from '../images/t.jpg'
+import t from '../images/seo.jpeg'
 const Portfolio = ()=>{
     return(
         <div id="indicators-carousel" class="relative w-full" data-carousel="static">
